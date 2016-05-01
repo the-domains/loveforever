@@ -1,0 +1,28 @@
+name: loveforever
+favicon: null
+layout_spectrum: 0.76966398418881
+typography_spectrum: 0.9274834159296006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5855508742388338
+  lightness: 0.5552714448422194
+  saturation: 0.631121237995103
+  rhythmicContrast: 0.22427241620607674
+purpose: []
