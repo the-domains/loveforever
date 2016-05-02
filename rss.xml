@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[loveforever]]></title>
         <description><![CDATA[loveforever]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/loveforever/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 00:17:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 01:06:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loveforever/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to the new LOVE site - it's powered by brand new AI enhanced software so lets go through some bumps together as we all grow in LOVE together forever xox</p>]]></description>
-            <link>undefinedwelcome-to-the-new-love-site-its-powered-by-brand-new-ai/index.html</link>
+            <link>https://thegrid.ai/loveforever/welcome-to-the-new-love-site-its-powered-by-brand-new-ai/index.html</link>
             <guid isPermaLink="false">c7f9c487-db1b-4cd1-b3c7-ead6b8327d4c</guid>
-            <pubDate>Mon, 02 May 2016 00:17:55 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 01:06:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
