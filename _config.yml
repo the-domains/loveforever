@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: "LOVE - more than a rock n' roll band - a movement!"
 cta:
   domain: null
   bucket: null
