@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: loveforever
+favicon: null
+layout_spectrum: 0.9983888
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.631121237995103
-  brandStrength: 0.9575725
-  lightness: 0.5552714448422194
-  brandColors:
-    - '#F80000'
-    - '#000000'
-    - '#A70007'
-    - '#FD300D'
-    - '#FBAD21'
-  rhythmicContrast: 0.2242724162060767
-typography_spectrum: 1
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.9983888
-favicon: null
-name: loveforever
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f80000'
+    - '#010000'
+    - '#6d0000'
+    - '#f45810'
+    - '#fccb31'
+  brandStrength: 0.9575725
+  lightness: 0.5552714448422194
+  saturation: 0.631121237995103
+  rhythmicContrast: 0.2242724162060767
+purpose: []
