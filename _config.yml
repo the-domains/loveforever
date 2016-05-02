@@ -1,28 +1,40 @@
-name: loveforever
-favicon: null
-layout_spectrum: 0.76966398418881
-typography_spectrum: 0.9274834159296006
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5855508742388338
-  lightness: 0.5552714448422194
-  saturation: 0.631121237995103
-  rhythmicContrast: 0.22427241620607674
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.631121237995103
+  brandStrength: 0.9575725
+  lightness: 0.5552714448422194
+  brandColors:
+    - '#F80000'
+    - '#000000'
+    - '#A70007'
+    - '#FD300D'
+    - '#FBAD21'
+  rhythmicContrast: 0.2242724162060767
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9983888
+favicon: null
+name: loveforever
